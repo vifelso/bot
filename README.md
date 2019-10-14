@@ -3,7 +3,7 @@ steps for running:
 
 1: clone repo
 
-git clone -b master git@github.com:vifelso/bot.git
+git clone -b master https://github.com/vifelso/bot.git
 
 2: install maven
 
