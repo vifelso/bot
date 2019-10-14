@@ -1,0 +1,2 @@
+insert into city (id, name, answer) values(1, 'Москва', 'Не забудьте посетить Красную Площадь. Ну а в ЦУМ можно и не заходить)))');
+insert into city (id, name, answer) values(2, 'Минск', 'Не забудьте сходить в парк Горького');
