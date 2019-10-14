@@ -29,6 +29,7 @@ username and pass for db are:
 spring.datasource.username=sa
 spring.datasource.password=password
 
+###########################
 Api:
 
 -create city - http://localhost:8080/city/save {"id":3,"name":"Гомель","answer":"Не забудьте посетить парк Луначарского)))"}
